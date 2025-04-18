@@ -1,0 +1,4 @@
+redis:
+  enabled: true
+etcd:
+  enabled: true
